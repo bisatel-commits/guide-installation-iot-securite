@@ -1,5 +1,8 @@
-# guide-installation-iot-securite
-Guide de déploiement de solutions IoT et connectivité sécurisée pour les professionnels de l'informatique par Bisatel Telecom
+# eSIM-White-Label-Platform
+
+Documentation technique des solutions eSIM Marque Blanche
+
+Architecture & Intégration : Plateforme eSIM Marque Blanche par [Bisatel Telecom](https://bisatel.com/devenir-revendeur-operateur-de-cartes-sim-en-24h/)
 # Guide de Déploiement : Connectivité IoT & Sécurité (2026)
 
 Ce guide est destiné aux installateurs et magasins d'informatique souhaitant déployer des solutions de connectivité robustes sous leur propre marque. 
